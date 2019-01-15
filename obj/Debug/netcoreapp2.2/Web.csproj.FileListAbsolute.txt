@@ -1,0 +1,14 @@
+/root/Web/bin/Debug/netcoreapp2.2/Web.deps.json
+/root/Web/bin/Debug/netcoreapp2.2/Web.runtimeconfig.json
+/root/Web/bin/Debug/netcoreapp2.2/Web.runtimeconfig.dev.json
+/root/Web/bin/Debug/netcoreapp2.2/Web.dll
+/root/Web/bin/Debug/netcoreapp2.2/Web.pdb
+/root/Web/obj/Debug/netcoreapp2.2/Web.csprojAssemblyReference.cache
+/root/Web/obj/Debug/netcoreapp2.2/Web.csproj.CoreCompileInputs.cache
+/root/Web/obj/Debug/netcoreapp2.2/Web.RazorAssemblyInfo.cache
+/root/Web/obj/Debug/netcoreapp2.2/Web.RazorAssemblyInfo.cs
+/root/Web/obj/Debug/netcoreapp2.2/Web.AssemblyInfoInputs.cache
+/root/Web/obj/Debug/netcoreapp2.2/Web.AssemblyInfo.cs
+/root/Web/obj/Debug/netcoreapp2.2/Web.RazorTargetAssemblyInfo.cache
+/root/Web/obj/Debug/netcoreapp2.2/Web.dll
+/root/Web/obj/Debug/netcoreapp2.2/Web.pdb
