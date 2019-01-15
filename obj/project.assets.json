@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gdc5\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\public\\Project\\20190115\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\gdc5\\Web\\Web.csproj",
+      "projectPath": "C:\\public\\Project\\20190115\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\gdc5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gdc5\\Web\\obj\\",
+      "outputPath": "C:\\public\\Project\\20190115\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
